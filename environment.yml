@@ -1,0 +1,13 @@
+name: tso-fs25
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - traffic
+  - plotly
+  - python-kaleido
+  - xlrd
+  - ipykernel
+  - nbformat
+  - gdown
